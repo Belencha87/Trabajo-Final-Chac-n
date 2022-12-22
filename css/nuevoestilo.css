@@ -1,0 +1,96 @@
+body {
+  background-image: linear-gradient(to right, rgb(61, 5, 47) , rgb(29, 29, 27));}
+
+.d-flex {
+  font-family: 'Cinzel Decorative', cursive;
+  color: antiquewhite; }
+  .d-flex.section {
+    background-color: #50501f; }
+
+.conteiner {
+  padding: 30px; }
+  .conteiner .color-texto {
+    font-family: 'Cinzel Decorative', cursive;
+    color: #d3cdcd; }
+  .conteiner h1 {
+    font-family: 'Cinzel Decorative', cursive;
+    color: #cfc8c8; }
+  .conteiner h4 {
+    font-family: 'Cinzel Decorative', cursive;
+    color: #e4d7d7; }
+  .conteiner p {
+    font-family: 'Saira Condensed', sans-serif;
+    color: #cec2c2; }
+
+   .animate__animated{
+    margin:100px;
+   }
+
+  
+    .facebook {
+      display: inline-block;
+      text-decoration: none;
+      width: 45px;
+      height: 40px;
+      line-height: 45px;
+      color: white;
+      background-color: black;
+      color: white;
+      margin-right: 10px;
+      font-size: 18px;
+      box-shadow: 0 3px 5px 0px rgba(0, 0, 0, 0.2);
+      transition: .2s;
+      text-align: center; }
+      .facebook:hover {
+        filter: none;
+        background: blue;
+        transform: scale(1);
+        color: white; 
+      }
+
+      .instagram {
+        display: inline-block;
+        text-decoration: none;
+        width: 45px;
+        height: 40px;
+        line-height: 45px;
+        color: white;
+        background-color: black;
+        color: white;
+        margin-right: 10px;
+        font-size: 18px;
+        box-shadow: 0 3px 5px 0px rgba(0, 0, 0, 0.2);
+        transition: .2s;
+        text-align: center; }
+        .instagram:hover {
+          transform: scale(1);
+          filter: none;
+          background: #e4405f;
+          color: white; }
+      
+      .twitter {
+        display: inline-block;
+        text-decoration: none;
+        width: 45px;
+        height: 40px;
+        line-height: 45px;
+        color: white;
+        background-color: black;
+        color: white;
+        margin-right: 10px;
+        font-size: 18px;
+        box-shadow: 0 3px 5px 0px rgba(0, 0, 0, 0.2);
+        transition: .2s;
+        text-align: center; }
+        .twitter:hover {
+          transform: scale(1);
+          filter: none;
+          background: #55acee;
+          color: white; }
+      
+
+.footer {
+  background-color: #252325;
+  text-align: center;
+  padding: 10px;
+  color: #e6dce6; }
